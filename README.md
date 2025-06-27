@@ -143,6 +143,6 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=EnzoMH&color=brightgreen&style=for-the-badge)
 
-**"FastAPI와 AI로 대용량 데이터를 다루는 풀스택 엔지니어"** 🚀
+**AI-Full-Stack Engineer Oriented"** 🚀
 
 </div>
