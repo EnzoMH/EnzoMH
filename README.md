@@ -44,7 +44,7 @@
 
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |---------|------|----------|------|
-| 🏢 **Advanced Crawling CRM** | 218,039개 기관 데이터 관리 시스템<br/>• AI 기반 크롤링 & 데이터 강화<br/>• FastAPI 4-Layer 아키텍처<br/>• 실시간 통계 대시보드 | FastAPI, SQLite, Gemini AI<br/>Chart.js, Bootstrap | [🔗 Repository](https://github.com/EnzoMH/advanced_crawling) |
+| 🏢 **Advanced Crawling CRM** | 218,039개 기관 데이터 관리 시스템<br/>• AI 기반 크롤링 & 데이터 강화<br/>• FastAPI 4-Layer 아키텍처<br/>• 실시간 통계 대시보드 | FastAPI, SQLite, Gemini AI<br/>Chart.js, Bootstrap | [🔗 Repository]((https://github.com/EnzoMH/cradcrawl_adv)) |
 | 🤖 **PROGEN** | 공공조달 제안서 자동생성 시스템<br/>• AI 기반 자동 문서 생성<br/>• 맞춤형 제안서 템플릿 | Python, AI, FastAPI | 🚀 Production |
 | 💬 **Multi-LLM Chat** | Claude, Gemini, Llama 통합 시스템<br/>• 다중 AI 모델 비교<br/>• 실시간 채팅 인터페이스 | Python, FastAPI, WebSocket | 🔧 Development |
 
