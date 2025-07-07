@@ -67,6 +67,7 @@
 ## ☁️ Cloud Deployment Experience
 
 ### 🌐 Production Deployments
+'''
 🏢 Advanced CRM System
 ├── 🌐 GCP Compute Engine (e2-medium)
 ├── 🗄️ PostgreSQL 15 (11K+ records)
@@ -77,7 +78,7 @@
 ├── 🔧 Auto-scaling Configuration
 ├── 🛡️ Security Groups
 └── 📈 Load Balancing
-
+'''
 ### 🤖 AI Model Integration
 - **HuggingFace Hub**: Llama, BERT, GPT 모델 통합
 - **Multi-LLM Architecture**: Claude + Gemini + Llama 동시 활용
