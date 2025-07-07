@@ -52,33 +52,31 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
 | 프로젝트 | 설명 | 기술 스택 | 배포 | 링크 |
 |---------|------|----------|------|------|
 | 🏢 **Advanced Crawling CRM** | 218,039개 기관 데이터 관리 시스템<br/>• AI 기반 크롤링 & 데이터 강화<br/>• FastAPI 4-Layer 아키텍처<br/>• 실시간 통계 대시보드 | FastAPI, PostgreSQL, Gemini AI<br/>Chart.js, Bootstrap | 🌐 **GCP Production**<br/>[34.47.113.22:8000](http://34.47.113.22:8000) | [🔗 Repository](https://github.com/EnzoMH/cradcrawl_adv) |
 | 🤖 **PROGEN** | 공공조달 제안서 자동생성 시스템<br/>• AI 기반 자동 문서 생성<br/>• 맞춤형 제안서 템플릿 | Python, AI, FastAPI | 🚀 **AWS EC2** | 🚀 Production |
 | 💬 **Multi-LLM Chat** | Claude, Gemini, Llama 통합 시스템<br/>• 다중 AI 모델 비교<br/>• 실시간 채팅 인터페이스 | Python, FastAPI, WebSocket<br/>HuggingFace Hub | 🔧 Development | 🔧 Development |
 
-</div>
-
 ---
 
 ## ☁️ Cloud Deployment Experience
 
 ### 🌐 Production Deployments
-'''
+```
 🏢 Advanced CRM System
 ├── 🌐 GCP Compute Engine (e2-medium)
 ├── 🗄️ PostgreSQL 15 (11K+ records)
 ├── 🔐 SSH Key Authentication
 └── 📊 99.9% Uptime
+
 🤖 PROGEN System
 ├── ⚡ AWS EC2 (t3.medium)
 ├── 🔧 Auto-scaling Configuration
 ├── 🛡️ Security Groups
 └── 📈 Load Balancing
-'''
+```
+
 ### 🤖 AI Model Integration
 - **HuggingFace Hub**: Llama, BERT, GPT 모델 통합
 - **Multi-LLM Architecture**: Claude + Gemini + Llama 동시 활용
@@ -89,12 +87,14 @@
 ## 📊 프로젝트 하이라이트
 
 ### 🎯 Advanced Crawling System v2.1.0
+```
 📈 218,039개 기관 데이터 관리
 🚀 63% 코드 최적화 (1003 → 365 라인)
 ⚡ 4-Layer 아키텍처 완성
 🔧 40개 API 엔드포인트
 📱 완전한 반응형 웹 디자인
 🌐 GCP 프로덕션 배포 완료
+```
 
 ### 🔥 최신 성과 (2025.07.07)
 - ✅ **GCP 프로덕션 배포** 완료 (PostgreSQL 마이그레이션)
@@ -148,8 +148,6 @@
 
 ## 🌟 기술적 성취
 
-<div align="center">
-
 | 메트릭 | 수치 | 설명 |
 |--------|------|------|
 | 📊 **관리 데이터** | 218,039개 | 전국 교회/종교기관 정보 |
@@ -159,8 +157,6 @@
 | 🚀 **아키텍처** | 4-Layer | 확장 가능한 시스템 설계 |
 | ☁️ **클라우드 배포** | 2개 | GCP + AWS 프로덕션 운영 |
 | 🤖 **AI 모델 통합** | 4개 | Claude, Gemini, Llama, GPT |
-
-</div>
 
 ---
 
@@ -184,5 +180,4 @@
 
 **"AI-Powered Full-Stack Engineer with Cloud Expertise"** 🚀
 
-</div>
 </div>
