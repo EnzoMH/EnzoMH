@@ -66,45 +66,34 @@
 
 ## ☁️ Cloud Deployment Experience
 
-<div align="center">
-
 ### 🌐 Production Deployments
-```
 🏢 Advanced CRM System
 ├── 🌐 GCP Compute Engine (e2-medium)
 ├── 🗄️ PostgreSQL 15 (11K+ records)
 ├── 🔐 SSH Key Authentication
 └── 📊 99.9% Uptime
-
-🤖 PROGEN System  
+🤖 PROGEN System
 ├── ⚡ AWS EC2 (t3.medium)
 ├── 🔧 Auto-scaling Configuration
 ├── 🛡️ Security Groups
 └── 📈 Load Balancing
-```
 
 ### 🤖 AI Model Integration
 - **HuggingFace Hub**: Llama, BERT, GPT 모델 통합
 - **Multi-LLM Architecture**: Claude + Gemini + Llama 동시 활용
 - **Model Fine-tuning**: 한국어 특화 모델 커스터마이징
 
-</div>
-
 ---
 
 ## 📊 프로젝트 하이라이트
 
-<div align="center">
-
 ### 🎯 Advanced Crawling System v2.1.0
-```
 📈 218,039개 기관 데이터 관리
 🚀 63% 코드 최적화 (1003 → 365 라인)
 ⚡ 4-Layer 아키텍처 완성
 🔧 40개 API 엔드포인트
 📱 완전한 반응형 웹 디자인
 🌐 GCP 프로덕션 배포 완료
-```
 
 ### 🔥 최신 성과 (2025.07.07)
 - ✅ **GCP 프로덕션 배포** 완료 (PostgreSQL 마이그레이션)
@@ -115,8 +104,6 @@
 - ✅ 완전한 GitHub Wiki 문서화 (12페이지)
 - ✅ 싱글톤 패턴 & 메모리 최적화
 - ✅ 실시간 크롤링 진행률 모니터링
-
-</div>
 
 ---
 
