@@ -3,7 +3,7 @@
 # 👋 안녕하세요! 저는 신명호입니다
 ## 🚀 Developer | Aspiring AI Full Stack Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=700&lines=Python+AI+Developer;FastAPI+Backend+Engineer;GCP+%26+AWS+Cloud+Architect;Multi-LLM+System+Developer;HuggingFace+Hub+Specialist;218k+Records+Database+Manager;Production+DevOps+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=700&lines=Python+AI+Developer;FastAPI+Backend+Engineer;GCP+%26+AWS+Cloud+Architect;Multi-LLM+System+Developer;Production+DevOps+Engineer" alt="Typing SVG" />
 
 </div>
 
