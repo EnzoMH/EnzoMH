@@ -1,7 +1,7 @@
 <div align="center">
   
 # 신명호 | Shin Myeongho
-## AI Systems Engineer | Full-Stack Infrastructure Developer
+## Aspiring AI Systems Engineer | Full-Stack Infrastructure Developer
 
 </div>
 
