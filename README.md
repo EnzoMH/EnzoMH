@@ -9,7 +9,7 @@
 
 ---
 
-## 💼 Professional Summary
+## Professional Summary
 
 ** AI 시스템 엔지니어를 지향하는 프로그래머 ** :
 - 비즈니스 문제를 기술적 솔루션으로 전환
@@ -17,9 +17,9 @@
 - AI/ML 모델을 프로덕션 환경에 통합하는 엔드투엔드 솔루션을 제공 
 ---
 
-## 💻 Core Technology Stack
+## Core Technology Stack
 
-### 🎯 AI & Machine Learning
+### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -30,7 +30,7 @@
 
 **전문 분야**: LLM Fine-tuning (SOLAR-10.7B on H100E), RAG Systems, Vector Databases, Multi-LLM Integration
 
-### 🏗️ Backend & Infrastructure
+### Backend & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,7 +39,7 @@
 
 **전문 분야**: 4-Layer Architecture Design, RESTful API Development, Industrial Robot Data Processing
 
-### 🎨 Frontend Development
+### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS_4.0-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -47,7 +47,7 @@
 
 **전문 분야**: Modern Full-Stack Development, Responsive Design, Real-time Dashboard
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,16 +56,16 @@
 
 **전문 분야**: ECS/ECR Container Deployment, CI/CD Pipeline Architecture, Multi-Cloud Strategy, Infrastructure as Code
 
-### 🔧 Development Tools
+### Development Tools
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
 ---
 
-## 🌟 Featured Engineering Projects
+## Featured Engineering Projects
 
-### 🏭 Industrial Digital Twin Platform (Current)
+### Industrial Digital Twin Platform (Current)
 **Position**: Backend Systems Engineer | **Period**: 2025.08 - Present
 
 디지털 트윈 기반 창고 자동화 시스템의 백엔드 아키텍처를 설계하고 구현하는 프로젝트입니다. 산업용 로봇(AGV, AMR, CNV, RTV)의 실시간 데이터를 수집하여 RAG 시스템과 통합하고, ROS 환경에서 URDF 데이터를 처리하여 3D 모델링과 연동합니다.
@@ -87,7 +87,7 @@
 
 ### 🤖 SOLAR-10.7B Korean LLM Fine-tuning (Personal Project)
 **Type**: AI/ML Research & Engineering | **Period**: 2025.09 - Present
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-MyeongHo0621-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MyeongHo0621)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-MyeongHo0621-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MyeongHo0621)
 
 H100E GPU 환경에서 SOLAR-10.7B 모델을 한국어 특화 도메인으로 fine-tuning하는 프로젝트입니다. 모델 훈련 파이프라인 설계, 데이터 전처리, 하이퍼파라미터 최적화 등 전체 MLOps 프로세스를 직접 구축하고 관리합니다.
 
@@ -127,7 +127,7 @@ H100E GPU 환경에서 SOLAR-10.7B 모델을 한국어 특화 도메인으로 fi
 
 ---
 
-### 🤖 PROGEN - AI-Powered Proposal Generator
+### PROGEN - AI-Powered Proposal Generator
 **Type**: Enterprise Document Automation | **Deployment**: AWS EC2 Production
 
 공공조달 제안서 자동 생성 시스템으로, 복잡한 비즈니스 요구사항을 AI 기반 문서로 자동 변환합니다. RFP 분석부터 제안서 생성까지 전체 워크플로우를 자동화한 엔터프라이즈 솔루션입니다.
@@ -150,7 +150,7 @@ H100E GPU 환경에서 SOLAR-10.7B 모델을 한국어 특화 도메인으로 fi
 
 ---
 
-### 💬 Multi-LLM Integration System
+### Multi-LLM Integration System
 **Type**: AI Research Platform | **Status**: Active Development
 
 Claude, Gemini, Llama 등 여러 LLM을 통합하여 비교 분석할 수 있는 플랫폼입니다. 각 모델의 특성을 활용한 최적의 AI 솔루션 제공을 목표로 합니다.
@@ -217,7 +217,7 @@ CI/CD 파이프라인 구축, 컨테이너 오케스트레이션, 모니터링 �
 
 ---
 
-## 📊 Technical Achievements
+## Technical Achievements
 
 | 메트릭 | 수치 | 설명 |
 |--------|------|------|
@@ -248,24 +248,11 @@ CI/CD 파이프라인 구축, 컨테이너 오케스트레이션, 모니터링 �
 - AI 기반 솔루션 개발
 - FastAPI 백엔드 시스템 구축
 
-**2023.05 - 2023.12**: Intel AI Workforce Future Program
-- 6개월 집중 AI 교육 프로그램 수료
-- 실무 중심 프로젝트 수행
-
-**2021.04 - 2022.08**: B2B Sales, 대기업
-- KPI 150% 달성
-- 비즈니스 요구사항 분석 및 솔루션 제안
-
-### 학력
-**대학교**: 일본어/영어 복수전공
-- 글로벌 커뮤니케이션 역량
-- 다국어 기술 문서 이해 및 작성
-
 ---
 
 ## Engineering Philosophy
 
-비즈니스 문제를 기술적 솔루션으로 전환하는 것이 엔지니어의 핵심 역량이라고 믿습니다. 단순히 코드를 작성하는 것을 넘어 전체 시스템을 설계하고, 최적의 기술 스택을 선택하며, 확장 가능한 아키텍처를 구축하는 데 집중합니다. 영업 배경을 통해 얻은 비즈니스 이해도와 AI 기술 역량을 결합하여 실질적인 가치를 창출하는 솔루션을 제공합니다.
+비즈니스 문제를 기술적 솔루션으로 전환하는 것이 엔지니어의 핵심 역량이라고 믿습니다. 단순히 코드를 작성하는 것을 넘어 전체 시스템을 설계하고, 최적의 기술 스택을 선택하며, 확장 가능한 아키텍처를 구축하는 데 집중합니다.실질적인 가치를 창출하는 솔루션을 제공합니다.
 
 **핵심 가치**:
 - **System Thinking**: 전체 시스템의 맥락에서 문제를 이해하고 해결
