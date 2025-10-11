@@ -83,9 +83,9 @@
 
 ---
 
-### 🤖 SOLAR-10.7B Korean LLM Fine-tuning (Personal Project)
+### SOLAR-10.7B Korean LLM Fine-tuning (Personal Project)
 **Type**: AI/ML Research & Engineering | **Period**: 2025.09 - Present
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-MyeongHo0621-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MyeongHo0621)
+**HF-HUB**:[![HuggingFace](https://img.shields.io/badge/HuggingFace-MyeongHo0621-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MyeongHo0621)
 
 H100E GPU 환경에서 SOLAR-10.7B 모델을 한국어 특화 도메인으로 fine-tuning하는 프로젝트입니다. 모델 훈련 파이프라인 설계, 데이터 전처리, 하이퍼파라미터 최적화 등 전체 MLOps 프로세스를 직접 구축하고 관리합니다.
 
