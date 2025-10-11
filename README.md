@@ -67,7 +67,7 @@ Tech Stack: Python, FastAPI, Next.js 15, ROS, AWS EC2
 ### SOLAR-10.7B Korean Language Model Fine-tuning
 **Personal Research Project | Sep 2025 - Present**
 
-[![Model](https://img.shields.io/badge/🤗_Model-solar--korean--wms-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MyeongHo0621/solar-korean-wms)
+[![Model](https://img.shields.io/badge/🤗_eeve-vss-smh-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MyeongHo0621/eeve-vss-smh)
 
 **English:** Conducting fine-tuning research on SOLAR-10.7B model for Korean language specialization using H100E GPU infrastructure. Built a complete MLOps pipeline including distributed training configuration, hyperparameter optimization, and model performance monitoring systems. The fine-tuned model has been published on HuggingFace Hub for community access.
 
