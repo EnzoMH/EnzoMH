@@ -17,9 +17,9 @@ Core competencies include system architecture design, multi-cloud infrastructure
 
 **한국어**
 
-프로덕션 시스템 아키텍처와 클라우드 인프라 배포 경험을 보유한 AI 시스템 엔지니어입니다. 현재 산업용 로봇 디지털 트윈 플랫폼의 백엔드 시스템을 개발하고 있으며, 한국어 대규모 언어모델 fine-tuning 연구를 진행하고 있습니다.
+프로덕션 시스템 아키텍처와 클라우드 인프라 배포 경험을 보유한 AI 엔지니어입니다. 현재 산업용 로봇 디지털 트윈 플랫폼의 백엔드 시스템을 개발하고 있으며, 한국어 대규모 언어모델 fine-tuning 연구를 진행하고 있습니다.
 
-시스템 아키텍처 설계, AWS와 GCP 멀티 클라우드 인프라 관리, LLM fine-tuning 및 RAG 시스템 구현, 프로덕션 수준의 CI/CD 파이프라인 개발 역량을 보유하고 있습니다.
+시스템 아키텍처 설계, AWS와 GCP 멀티 클라우드 인프라 관리, LLM fine-tuning 및 RAG 시스템 구현, CI/CD 파이프라인 개발 역량을 보유하고 있습니다.
 
 ---
 
@@ -58,7 +58,7 @@ Specialization: LLM Fine-tuning (SOLAR-10.7B), RAG Systems, Vector Databases
 
 **English:** Developing backend architecture for a warehouse automation platform that integrates industrial robots including AGV, AMR, CNV, and RTV systems. Implemented data collection pipelines, RAG system with vector databases, and ROS-URDF data processing for 3D modeling integration. Current work focuses on ML-based prediction using XGBoost for ROI and KPI metrics in simulation environments.
 
-**한국어:** 산업용 로봇(AGV, AMR, CNV, RTV)을 통합하는 창고 자동화 플랫폼의 백엔드 아키텍처를 개발하고 있습니다. 데이터 수집 파이프라인, Vector DB 기반 RAG 시스템, 3D 모델링 연동을 위한 ROS-URDF 데이터 처리를 구현했습니다. 현재 시뮬레이션 환경에서 XGBoost를 활용한 ROI 및 KPI 지표 예측 작업을 진행하고 있습니다.
+**한국어:** 산업용 로봇(AGV, AMR, CNV, RTV)을 통합하는 창고 자동화 플랫폼의 백엔드 아키텍처를 개발하고 있습니다. 데이터 수집 파이프라인, Vector DB 기반 RAG 시스템을 구현했습니다. 현재 시뮬레이션 환경에서 XGBoost를 활용한 ROI 및 KPI 지표 예측 작업을 위한 데이터모델링을 완료 및 프로덕션에 적용했으며, 추가적인 데이터수집 및 정제 예정입니다. 
 
 Tech Stack: Python, FastAPI, Next.js 15, ROS, AWS EC2
 
@@ -84,7 +84,7 @@ Tech Stack: Python, PyTorch, HuggingFace Transformers, H100E GPU, CUDA
 
 **English:** Production CRM system managing 218,039 institutional records with AI-powered data enrichment capabilities. Implemented a 4-layer architecture with 40 RESTful API endpoints and deployed to GCP Compute Engine. Achieved 63% code optimization through refactoring and maintains 99.9% uptime in production environment.
 
-**한국어:** 218,039개 기관 데이터를 관리하는 프로덕션 CRM 시스템입니다. AI 기반 데이터 강화 기능을 포함한 4-Layer 아키텍처와 40개의 RESTful API 엔드포인트를 구현하여 GCP Compute Engine에 배포했습니다. 리팩토링을 통해 63%의 코드 최적화를 달성했으며, 프로덕션 환경에서 99.9%의 가동률을 유지하고 있습니다.
+**한국어:** 218,039개 기관 데이터를 관리하는 프로덕션 CRM 시스템입니다. GCP Compute Engine에 배포했습니다. 현재는 크롤링프로그램으로 인한 (Undetected ChormeDrvier, SeleniumDrver, Proxy Rotation Abused) 정책위반으로 클라우드 계정 자체가 폐쇄되었습니다. 
 
 Tech Stack: FastAPI, PostgreSQL, Bootstrap 5.3, GCP Compute Engine, Nginx
 
@@ -109,7 +109,7 @@ Deployed and maintained production systems across multiple cloud platforms. On G
 
 **한국어**
 
-멀티 클라우드 플랫폼에서 프로덕션 시스템을 배포하고 운영하고 있습니다. GCP에서는 Compute Engine 인프라를 구성하고 PostgreSQL 데이터베이스 마이그레이션 및 SSH 기반 보안 아키텍처를 통해 99.9%의 가동률을 달성했습니다. AWS에서는 EC2 기반 배포와 ECS/ECR 컨테이너 오케스트레이션, Auto-scaling 구성, 엔터프라이즈 애플리케이션을 위한 Load Balancing을 구현했습니다. GitHub Actions를 활용하여 Next.js와 FastAPI 애플리케이션의 환경별 자동 배포 워크플로우를 구축했습니다.
+AWS에서 EC2 기반 배포와 ECS/ECR 컨테이너 오케스트레이션, Auto-scaling 구성, 엔터프라이즈 애플리케이션을 위한 Load Balancing을 구현했습니다. GitHub Actions를 활용하여 Next.js와 FastAPI 애플리케이션의 환경별 자동 배포 워크플로우를 구축했습니다.
 
 ---
 
@@ -128,10 +128,10 @@ Deployed and maintained production systems across multiple cloud platforms. On G
 ## Professional Experience
 
 **2025.08 - Present | Backend Systems Engineer**
-Digital Twin Platform Development Company
+VisionSpace(Digital Twin Platform Development Company)
 
 **2025.01 - 2025.02 | AI Product Manager**
-Nucl
+Nuckl
 
 **2024.07 - 2024.12 | AI Developer**
 GIWorks
@@ -143,6 +143,7 @@ GIWorks
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isfs003@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mh.shin@visionspace.co.kr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Shin-Myeong-Ho-32b17c808b3642a583ea457a0c68df5a)
 [![GitHub](https://img.shields.io/badge/GitHub-EnzoMH-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnzoMH)
 
