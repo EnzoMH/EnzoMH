@@ -83,9 +83,11 @@
 
 ---
 
-### SOLAR-10.7B Korean LLM Fine-tuning (Personal Project)
+### 🤖 SOLAR-10.7B Korean LLM Fine-tuning (Personal Project)
+
 **Type**: AI/ML Research & Engineering | **Period**: 2025.09 - Present
-**HF-HUB**:[![HuggingFace](https://img.shields.io/badge/HuggingFace-MyeongHo0621-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MyeongHo0621)
+
+[![HuggingFace Model](https://img.shields.io/badge/🤗_Model-solar--korean--wms-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MyeongHo0621/solar-korean-wms)
 
 H100E GPU 환경에서 SOLAR-10.7B 모델을 한국어 특화 도메인으로 fine-tuning하는 프로젝트입니다. 모델 훈련 파이프라인 설계, 데이터 전처리, 하이퍼파라미터 최적화 등 전체 MLOps 프로세스를 직접 구축하고 관리합니다.
 
@@ -98,7 +100,7 @@ H100E GPU 환경에서 SOLAR-10.7B 모델을 한국어 특화 도메인으로 fi
 
 **기술 스택**: Python, PyTorch, HuggingFace Transformers, H100E GPU, CUDA
 
-**성과**: 대규모 언어모델의 실전 fine-tuning 경험을 통해 MLOps 및 GPU 최적화 역량 확보
+**성과**: 대규모 언어모델의 실전 fine-tuning 경험을 통해 MLOps 및 GPU 최적화 역량 확보. 훈련된 모델을 HuggingFace Hub에 공개하여 커뮤니티와 공유.
 
 ---
 
